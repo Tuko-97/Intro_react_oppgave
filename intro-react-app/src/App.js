@@ -1,4 +1,4 @@
-import Movies from './Components/Movies';
+import Movies from './Components/Parent';
 import './App.css';
 
 
